@@ -1,0 +1,14 @@
+node_modules
+.next
+.next-verify
+.git
+.data
+.pnpm-store
+.env*
+!.env.example
+*.tsbuildinfo
+test-results
+playwright-report
+coverage
+production-credentials.md
+public/example-table-8-qr.*

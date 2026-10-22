@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792526245500,
+      "tag": "0000_hard_jane_foster",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792527619504,
+      "tag": "0001_early_jack_flag",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792527771888,
+      "tag": "0002_pale_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792529225994,
+      "tag": "0003_condemned_deathstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792530722312,
+      "tag": "0004_absurd_sunspot",
+      "breakpoints": true
+    }
+  ]
+}
